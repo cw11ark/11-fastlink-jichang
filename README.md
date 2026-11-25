@@ -2,7 +2,7 @@
 
 > **一句话评价：先判断是否适合：Anycast中转并增设AIA/IPLC线路，需自家客户端的老机场。**
 >
-> 👉 **[官网注册](https://a01.flaff9.cc/auth/register?code=B0uVwEgu)** · 建议从 基础版 的短周期开始，先核对客户端和常用节点。
+> 👉 **[官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)** · 建议从 基础版 的短周期开始，先核对客户端和常用节点。
 >
 
 >
@@ -63,7 +63,7 @@
 
 ## 注册
 
-👉 **[前往FastLink注册页面](https://a01.flaff9.cc/auth/register?code=B0uVwEgu)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
+👉 **[前往FastLink注册页面](https://a01.flaff9.cc/auth/register?code=EC80x83h)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
 
 ## 更新
 
